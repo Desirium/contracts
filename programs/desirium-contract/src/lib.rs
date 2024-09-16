@@ -7,6 +7,7 @@ pub mod desirium_contract {
     use super::*;
 
     pub fn initialize(ctx: Context<Initialize>) -> Result<()> {
+        msg!("Hello, Solana!");
         Ok(())
     }
 }
