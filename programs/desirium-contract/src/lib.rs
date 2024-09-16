@@ -2,7 +2,7 @@ use anchor_lang::prelude::*;
 use anchor_spl::token::{self, Token, TokenAccount, Transfer, Mint};
 use anchor_spl::associated_token::AssociatedToken;
 
-declare_id!("CzY7h2jY3Fq8Rw3rSSi8PZksgbtZzn44aQR6EeYm2bMo");
+declare_id!("5zgUq9GxN1xAP32i52eQpexGuKCcGoqWKvfxbZGDEvMb");
 
 #[program]
 pub mod wishlist_program {

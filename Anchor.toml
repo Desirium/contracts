@@ -1,11 +1,11 @@
 [toolchain]
 
 [features]
-seeds = false
+resolution = true
 skip-lint = false
 
 [programs.devnet]
-desirium_contract = "CzY7h2jY3Fq8Rw3rSSi8PZksgbtZzn44aQR6EeYm2bMo"
+desirium_contract = "5zgUq9GxN1xAP32i52eQpexGuKCcGoqWKvfxbZGDEvMb"
 
 [registry]
 url = "https://api.apr.dev"
